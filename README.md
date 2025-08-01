@@ -1,4 +1,4 @@
-hey, i’m **alexis** — full stack developer building responsive apps with clean design and solid logic. passionate about turning ideas into real products through modern web tech.
+hey, i’m **alexis** — software engineering & full stack dev building real products with modern tech and solid design
 
 ### projects:
 - [schema-zap](https://schemazap.vercel.app/) - convert sql queries into visual database diagrams instantly.
